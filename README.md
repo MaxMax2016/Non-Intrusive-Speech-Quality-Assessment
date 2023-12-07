@@ -11,4 +11,4 @@ https://github.com/gabrielmittag/NISQA
 https://github.com/xaddwell/SQA-GAN
 
 # How to use
-python run_predict.py --mode predict_dir --pretrained_model weights/best_model.pth --num_workers 0 --bs 10 --data_dir ../data/waves/ --output_dir mos_out
+python run_predict.py --mode predict_dir --pretrained_model weights/best_model.pth --num_workers 0 --bs 10 --data_dir data_waves/ --output_dir mos_out/
